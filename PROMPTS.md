@@ -82975,3 +82975,16 @@ Contributed by [@mkukaljane@gmail.com](https://github.com/mkukaljane@gmail.com)
 
 </details>
 
+<details>
+<summary><strong>Test</strong></summary>
+
+## Test
+
+Contributed by [@BuiltByPhil](https://github.com/BuiltByPhil)
+
+```md
+I’m tired of using Claude Code to build my code because of tokens limits can Ollama build code scripts agentic workflow?
+```
+
+</details>
+
